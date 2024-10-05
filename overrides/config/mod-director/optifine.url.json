@@ -1,0 +1,8 @@
+{
+    "url": "https://optifine.net/adloadx?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
+    "follows": ["preview_OptiFine_1.12.2_HD_U_G6_pre1"],
+    "fileName": "preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
+    "options": {
+        "launchwrapperTweakerForceNext": true
+    }
+}
