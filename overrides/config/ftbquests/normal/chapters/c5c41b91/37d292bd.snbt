@@ -1,0 +1,217 @@
+{
+	title: "模组手册",
+	x: 8.0d,
+	y: -2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "6484f70c",
+		type: "item",
+		items: [{
+			item: "minecraft:book"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "4d2b5e42",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any foodCheese"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "foodCheese"
+				}
+			}
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "8bcb5a1f",
+		type: "item",
+		item: {
+			id: "akashictome:tome",
+			tag: {
+				"akashictome:data": {
+					extrautils2: {
+						id: "extrautils2:book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "extrautils2"
+						}
+					},
+					openblocks: {
+						id: "openblocks:info_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "openblocks"
+						}
+					},
+					rustic: {
+						id: "rustic:book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "rustic"
+						}
+					},
+					thaumcraft: {
+						id: "thaumcraft:thaumonomicon",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "thaumcraft"
+						}
+					},
+					botania: {
+						id: "botania:lexicon",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "botania"
+						}
+					},
+					tconstruct: {
+						id: "tconstruct:book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "tconstruct"
+						}
+					},
+					conarm: {
+						id: "conarm:book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "conarm"
+						}
+					},
+					ebwizardry: {
+						id: "ebwizardry:wizard_handbook",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "ebwizardry"
+						}
+					},
+					ftbquests: {
+						id: "ftbquests:book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "ftbquests"
+						}
+					},
+					immersiveengineering: {
+						id: "immersiveengineering:tool",
+						Count: 1,
+						Damage: 3s,
+						tag: {
+							"akashictome:definedMod": "immersiveengineering"
+						}
+					},
+					cuisine: {
+						id: "cuisine:manual",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "cuisine"
+						}
+					},
+					solcarrot: {
+						id: "solcarrot:food_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "solcarrot"
+						}
+					},
+					actuallyadditions: {
+						id: "actuallyadditions:item_booklet",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "actuallyadditions"
+						}
+					},
+					aether_legacy: {
+						id: "aether_legacy:lore_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "aether_legacy"
+						}
+					},
+					astralsorcery: {
+						id: "astralsorcery:itemjournal",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "astralsorcery"
+						}
+					},
+					touhou_little_maid: {
+						id: "patchouli:guide_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"patchouli:book": "touhou_little_maid:memorizable_gensokyo",
+							"akashictome:definedMod": "touhou_little_maid"
+						}
+					},
+					twilightforest: {
+						id: "patchouli:guide_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"patchouli:book": "twilightforest:guide",
+							"akashictome:definedMod": "twilightforest"
+						}
+					},
+					sakura: {
+						id: "patchouli:guide_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"patchouli:book": "sakura:sakura_guide",
+							"akashictome:definedMod": "sakura"
+						}
+					},
+					lastsmith: {
+						id: "patchouli:guide_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"patchouli:book": "lastsmith:smith_guide",
+							"akashictome:definedMod": "lastsmith"
+						}
+					},
+					engineersdecor: {
+						id: "patchouli:guide_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"patchouli:book": "engineersdecor:engineersdecor_manual",
+							"akashictome:definedMod": "engineersdecor"
+						}
+					},
+					thebetweenlands: {
+						id: "thebetweenlands:manual_hl",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "thebetweenlands"
+						}
+					}
+				}
+			}
+		}
+	}]
+}

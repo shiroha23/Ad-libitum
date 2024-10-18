@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "164d80c0",
+		type: "dimension",
+		icon: "minecraft:grass",
+		dim: 0
+	}],
+	rewards: [{
+		uid: "6bfe264f",
+		type: "item",
+		auto: "enabled",
+		item: "ftbquests:book"
+	}]
+}

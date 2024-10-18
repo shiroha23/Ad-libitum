@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "70640b88",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crafter_on_a_stick"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

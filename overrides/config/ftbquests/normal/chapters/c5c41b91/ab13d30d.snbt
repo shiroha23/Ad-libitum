@@ -1,0 +1,35 @@
+{
+	title: "常用按键",
+	x: 2.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "75617598",
+		type: "checkmark",
+		title: "M  打开地图"
+	},
+	{
+		uid: "e0eea91b",
+		type: "checkmark",
+		title: "R  查看配方"
+	},
+	{
+		uid: "05b92102",
+		type: "checkmark",
+		title: "U  查看合成"
+	},
+	{
+		uid: "28776a93",
+		type: "checkmark",
+		title: "~  连锁挖掘"
+	},
+	{
+		uid: "52cbad6e",
+		type: "checkmark",
+		title: "Shift + 鼠标右键  搬运"
+	}],
+	rewards: [{
+		uid: "e051dd70",
+		type: "item",
+		item: "actuallyadditions:item_paxel_crystal_green"
+	}]
+}

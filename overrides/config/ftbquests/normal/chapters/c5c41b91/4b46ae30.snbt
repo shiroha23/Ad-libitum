@@ -1,0 +1,41 @@
+{
+	title: "可用命令",
+	x: 4.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "0723ba9e",
+		type: "checkmark",
+		title: "/sethome"
+	},
+	{
+		uid: "f52bc210",
+		type: "checkmark",
+		title: "/home"
+	},
+	{
+		uid: "c05274fc",
+		type: "checkmark",
+		title: "/delhome"
+	},
+	{
+		uid: "0de00d91",
+		type: "checkmark",
+		title: "/tpa"
+	},
+	{
+		uid: "3d9afe17",
+		type: "checkmark",
+		title: "/tpaccept"
+	},
+	{
+		uid: "80444ad4",
+		type: "checkmark",
+		title: "/back"
+	}],
+	rewards: [{
+		uid: "f5bc71f8",
+		type: "item",
+		item: "minecraft:golden_apple",
+		count: 64
+	}]
+}

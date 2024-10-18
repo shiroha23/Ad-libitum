@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "ef3cbd77",
+		type: "item",
+		title: "传送石碑",
+		items: [{
+			id: "itemfilters:filter",
+			ForgeCaps: {
+				Parent: {
+					id: "mod",
+					data: "waystones"
+				}
+			}
+		}]
+	}]
+}

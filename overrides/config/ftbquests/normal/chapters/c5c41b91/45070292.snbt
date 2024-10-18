@@ -1,0 +1,18 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "edc24abe",
+		type: "item",
+		title: "旅行者背包",
+		items: [{
+			id: "itemfilters:filter",
+			ForgeCaps: {
+				Parent: {
+					id: "mod",
+					data: "travelersbackpack"
+				}
+			}
+		}]
+	}]
+}
