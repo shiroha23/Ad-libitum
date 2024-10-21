@@ -1,0 +1,203 @@
+{
+	x: 6.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "bcd78709",
+		type: "item",
+		items: [{
+			id: "akashictome:tome",
+			tag: {
+				"akashictome:data": {
+					tconstruct: {
+						id: "tconstruct:book",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "tconstruct"
+						},
+						Damage: 0s
+					},
+					sakura: {
+						id: "patchouli:guide_book",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "sakura",
+							"patchouli:book": "sakura:sakura_guide"
+						},
+						Damage: 0s
+					},
+					astralsorcery: {
+						id: "astralsorcery:itemjournal",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "astralsorcery"
+						},
+						Damage: 0s
+					},
+					conarm: {
+						id: "conarm:book",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "conarm"
+						},
+						Damage: 0s
+					},
+					ftbquests: {
+						id: "ftbquests:book",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "ftbquests"
+						},
+						Damage: 0s
+					},
+					immersiveengineering: {
+						id: "immersiveengineering:tool",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "immersiveengineering"
+						},
+						Damage: 3s
+					},
+					cuisine: {
+						id: "cuisine:manual",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "cuisine"
+						},
+						Damage: 0s
+					},
+					engineersdecor: {
+						id: "patchouli:guide_book",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "engineersdecor",
+							"patchouli:book": "engineersdecor:engineersdecor_manual"
+						},
+						Damage: 0s
+					},
+					ebwizardry: {
+						id: "ebwizardry:wizard_handbook",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "ebwizardry"
+						},
+						Damage: 0s
+					},
+					solcarrot: {
+						id: "solcarrot:food_book",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "solcarrot"
+						},
+						Damage: 0s
+					},
+					aether_legacy: {
+						id: "aether_legacy:lore_book",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "aether_legacy"
+						},
+						Damage: 0s
+					},
+					rustic: {
+						id: "rustic:book",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "rustic"
+						},
+						Damage: 0s
+					},
+					botania: {
+						id: "botania:lexicon",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "botania"
+						},
+						Damage: 0s
+					},
+					thaumcraft: {
+						id: "thaumcraft:thaumonomicon",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "thaumcraft"
+						},
+						Damage: 0s
+					},
+					extrautils2: {
+						id: "extrautils2:book",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "extrautils2"
+						},
+						Damage: 0s
+					},
+					actuallyadditions: {
+						id: "actuallyadditions:item_booklet",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "actuallyadditions"
+						},
+						Damage: 0s
+					},
+					touhou_little_maid: {
+						id: "patchouli:guide_book",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "touhou_little_maid",
+							"patchouli:book": "touhou_little_maid:memorizable_gensokyo"
+						},
+						Damage: 0s
+					},
+					twilightforest: {
+						id: "patchouli:guide_book",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "twilightforest",
+							"patchouli:book": "twilightforest:guide"
+						},
+						Damage: 0s
+					},
+					lastsmith: {
+						id: "patchouli:guide_book",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "lastsmith",
+							"patchouli:book": "lastsmith:smith_guide"
+						},
+						Damage: 0s
+					},
+					thebetweenlands: {
+						id: "thebetweenlands:manual_hl",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "thebetweenlands"
+						},
+						Damage: 0s
+					},
+					openblocks: {
+						id: "openblocks:info_book",
+						Count: 1,
+						tag: {
+							"akashictome:definedMod": "openblocks"
+						},
+						Damage: 0s
+					}
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0b1ca6d7",
+		type: "item",
+		item: {
+			id: "twilightforest:glass_sword",
+			tag: {
+				ench: [{
+					id: 34,
+					lvl: 3s
+				}]
+			}
+		}
+	}]
+}

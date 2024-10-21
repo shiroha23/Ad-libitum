@@ -1,22 +1,22 @@
 {
-	x: 2.0d,
+	x: 4.0d,
 	y: 2.0d,
 	tasks: [{
-		uid: "ef3cbd77",
+		uid: "d1e80a3e",
 		type: "item",
-		title: "传送石碑",
+		title: "更好的建筑之杖",
 		items: [{
 			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
 					id: "mod",
-					data: "waystones"
+					data: "betterbuilderswands"
 				}
 			}
 		}]
 	}],
 	rewards: [{
-		uid: "58bfa4e5",
+		uid: "fe74cbd3",
 		type: "loot",
 		table: 0
 	}]

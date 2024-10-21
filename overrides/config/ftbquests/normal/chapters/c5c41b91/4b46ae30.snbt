@@ -33,9 +33,9 @@
 		title: "/back"
 	}],
 	rewards: [{
-		uid: "f5bc71f8",
-		type: "item",
-		item: "minecraft:golden_apple",
-		count: 64
+		uid: "6c9bf7b4",
+		type: "command",
+		title: "死亡后保留物品栏",
+		command: "/gamerule keepInventory true"
 	}]
 }

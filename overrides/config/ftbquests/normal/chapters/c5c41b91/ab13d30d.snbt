@@ -28,8 +28,26 @@
 		title: "Shift + 鼠标右键  搬运"
 	}],
 	rewards: [{
-		uid: "e051dd70",
+		uid: "e77bcb54",
 		type: "item",
-		item: "actuallyadditions:item_paxel_crystal_green"
+		item: {
+			id: "tconstruct:moms_spaghetti",
+			tag: {
+				TinkerData: {
+					Modifiers: [
+						"spaghetti_sauce",
+						"spaghetti_meat"
+					]
+				},
+				Modifiers: [{
+					identifier: "spaghetti_sauce",
+					color: 10964308
+				},
+				{
+					identifier: "spaghetti_meat",
+					color: 7945773
+				}]
+			}
+		}
 	}]
 }

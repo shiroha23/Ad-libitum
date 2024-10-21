@@ -14,5 +14,10 @@
 				}
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "4fa06fc0",
+		type: "loot",
+		table: 0
 	}]
 }

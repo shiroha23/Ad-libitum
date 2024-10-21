@@ -1,22 +1,22 @@
 {
-	x: 2.0d,
+	x: 6.0d,
 	y: 2.0d,
 	tasks: [{
-		uid: "ef3cbd77",
+		uid: "94903f82",
 		type: "item",
-		title: "传送石碑",
+		title: "末影存储",
 		items: [{
 			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
 					id: "mod",
-					data: "waystones"
+					data: "enderstorage"
 				}
 			}
 		}]
 	}],
 	rewards: [{
-		uid: "58bfa4e5",
+		uid: "b2f00ec5",
 		type: "loot",
 		table: 0
 	}]
