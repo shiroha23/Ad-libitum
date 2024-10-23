@@ -1,0 +1,35 @@
+{
+	x: 6.0d,
+	y: 4.0d,
+	dependencies: [
+		"d831fc45"
+	],
+	tasks: [{
+		uid: "066b9845",
+		type: "item",
+		items: [{
+			item: "mekanism:tierinstaller"
+		}]
+	},
+	{
+		uid: "c954fe0a",
+		type: "item",
+		items: [{
+			item: "mekanism:tierinstaller 1 1"
+		}]
+	},
+	{
+		uid: "a5cab01c",
+		type: "item",
+		items: [{
+			item: "mekanism:tierinstaller 1 2"
+		}]
+	},
+	{
+		uid: "7b482483",
+		type: "item",
+		items: [{
+			item: "mekanism:tierinstaller 1 3"
+		}]
+	}]
+}

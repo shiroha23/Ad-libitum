@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: 12.0d,
+	dependencies: [
+		"74e01f8d"
+	],
+	tasks: [{
+		uid: "23b835b3",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_stirling_generator"
+		}]
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	x: 2.0d,
+	y: 4.0d,
+	dependencies: [
+		"edcc1b1a"
+	],
+	tasks: [{
+		uid: "eed17f2a",
+		type: "item",
+		items: [{
+			item: "mekanism:enrichedalloy"
+		}]
+	},
+	{
+		uid: "dd7d0c5e",
+		type: "item",
+		items: [{
+			item: "mekanism:reinforcedalloy"
+		}]
+	},
+	{
+		uid: "f22fedac",
+		type: "item",
+		items: [{
+			item: "mekanism:atomicalloy"
+		}]
+	}]
+}

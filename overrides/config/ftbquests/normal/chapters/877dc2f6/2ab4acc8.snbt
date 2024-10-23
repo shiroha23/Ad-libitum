@@ -1,0 +1,35 @@
+{
+	x: 2.0d,
+	y: 8.0d,
+	dependencies: [
+		"276412ff"
+	],
+	tasks: [{
+		uid: "2727b99e",
+		type: "item",
+		items: [{
+			item: "mekanism:compressedcarbon"
+		}]
+	},
+	{
+		uid: "b473e8e5",
+		type: "item",
+		items: [{
+			item: "mekanism:compressedredstone"
+		}]
+	},
+	{
+		uid: "5d096ed9",
+		type: "item",
+		items: [{
+			item: "mekanism:compresseddiamond"
+		}]
+	},
+	{
+		uid: "cb3e9b17",
+		type: "item",
+		items: [{
+			item: "mekanism:compressedobsidian"
+		}]
+	}]
+}

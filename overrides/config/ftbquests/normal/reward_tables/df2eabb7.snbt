@@ -1,0 +1,40 @@
+{
+	title: "科技基本",
+	loot_size: 1,
+	rewards: [{
+		item: "deeperdepths:material",
+		count: 64
+	},
+	{
+		item: "thermalfoundation:material 1 129",
+		count: 64
+	},
+	{
+		item: "thermalfoundation:material 1 130",
+		count: 32
+	},
+	{
+		item: "thermalfoundation:material 1 131",
+		count: 32
+	},
+	{
+		item: "thermalfoundation:material 1 132",
+		count: 32
+	},
+	{
+		item: "thermalfoundation:material 1 133",
+		count: 32
+	},
+	{
+		item: "thermalfoundation:material 1 134",
+		count: 16
+	},
+	{
+		item: "thermalfoundation:material 1 135",
+		count: 16
+	},
+	{
+		item: "ic2:ingot 1 8",
+		count: 32
+	}]
+}

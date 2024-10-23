@@ -2,50 +2,19 @@
 	x: 2.0d,
 	y: 0.0d,
 	tasks: [{
-		uid: "2fc90464",
+		uid: "f6fba4d4",
 		type: "item",
-		title: "全能工具",
 		items: [{
-			item: "actuallyadditions:wooden_paxel"
-		},
-		{
 			item: "actuallyadditions:stone_paxel"
-		},
-		{
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "18c63161",
+		type: "item",
+		items: [{
 			item: "actuallyadditions:iron_paxel"
-		},
-		{
-			item: "actuallyadditions:gold_paxel"
-		},
-		{
-			item: "actuallyadditions:diamond_paxel"
-		},
-		{
-			item: "actuallyadditions:emerald_paxel"
-		},
-		{
-			item: "actuallyadditions:obsidian_paxel"
-		},
-		{
-			item: "actuallyadditions:quartz_paxel"
-		},
-		{
-			item: "actuallyadditions:item_paxel_crystal_red"
-		},
-		{
-			item: "actuallyadditions:item_paxel_crystal_blue"
-		},
-		{
-			item: "actuallyadditions:item_paxel_crystal_light_blue"
-		},
-		{
-			item: "actuallyadditions:item_paxel_crystal_black"
-		},
-		{
-			item: "actuallyadditions:item_paxel_crystal_green"
-		},
-		{
-			item: "actuallyadditions:item_paxel_crystal_white"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

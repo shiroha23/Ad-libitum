@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 10.0d,
+	dependencies: [
+		"8a1dfb64"
+	],
+	tasks: [{
+		uid: "1127f902",
+		type: "item",
+		items: [{
+			item: "enderio:block_cap_bank 1 2"
+		}]
+	}]
+}

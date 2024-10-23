@@ -1,5 +1,5 @@
 {
-	title: "基础材料",
+	title: "一般基本",
 	loot_size: 1,
 	rewards: [{
 		item: "minecraft:coal",
