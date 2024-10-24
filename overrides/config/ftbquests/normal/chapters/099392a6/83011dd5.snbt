@@ -1,11 +1,12 @@
 {
-	x: -2.0d,
-	y: 24.0d,
+	x: 0.0d,
+	y: 0.0d,
 	tasks: [{
-		uid: "8ffafb5c",
+		uid: "b36fc5e4",
 		type: "item",
 		items: [{
-			item: "ic2:treetap"
+			id: "botania:lexicon",
+			tag: {}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

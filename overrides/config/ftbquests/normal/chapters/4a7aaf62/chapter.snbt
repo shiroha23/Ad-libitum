@@ -1,0 +1,7 @@
+{
+	title: "匠魂",
+	icon: "tconstruct:smeltery_controller",
+	always_invisible: false,
+	group: 1320426274,
+	default_quest_shape: ""
+}

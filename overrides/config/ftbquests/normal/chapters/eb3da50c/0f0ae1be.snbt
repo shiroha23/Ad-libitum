@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "64d08bb8",
+		type: "item",
+		items: [{
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "lastsmith:smith_guide"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

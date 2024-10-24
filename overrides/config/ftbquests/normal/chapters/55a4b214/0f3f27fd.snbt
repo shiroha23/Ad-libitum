@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "612b3537",
+		type: "item",
+		items: [{
+			item: "thaumcraft:thaumonomicon"
+		}],
+		ignore_nbt: 1b
+	}]
+}

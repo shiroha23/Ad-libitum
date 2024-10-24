@@ -1,14 +1,14 @@
 {
-	x: 2.0d,
+	x: 16.0d,
 	y: 8.0d,
 	dependencies: [
-		"276412ff"
+		"f66f4a03"
 	],
 	tasks: [{
-		uid: "2727b99e",
+		uid: "07ef2bb4",
 		type: "item",
 		items: [{
-			item: "mekanism:compressedcarbon"
+			item: "mekanism:machineblock 1 4"
 		}]
 	}]
 }

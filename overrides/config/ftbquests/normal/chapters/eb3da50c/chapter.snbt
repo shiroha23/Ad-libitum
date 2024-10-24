@@ -1,0 +1,53 @@
+{
+	title: "拔刀剑",
+	icon: {
+		id: "lastsmith:.slashblade.named",
+		tag: {
+			ench: [{
+				id: 48,
+				lvl: 1s
+			},
+			{
+				id: 34,
+				lvl: 3s
+			},
+			{
+				id: 16,
+				lvl: 2s
+			},
+			{
+				id: 19,
+				lvl: 2s
+			},
+			{
+				id: 48,
+				lvl: 2s
+			},
+			{
+				id: 34,
+				lvl: 1s
+			},
+			{
+				id: 16,
+				lvl: 3s
+			}],
+			CurrentItemName: "flammpfeil.slashblade.named.yamazakura.kamuy",
+			CustomMaxDamage: 41,
+			baseAttackModifier: 10.0f,
+			AttackAmplifier: 0.01f,
+			isDefaultBewitched: 1b,
+			IsBewitchedActived: 1b,
+			SpecialAttackType: 263,
+			TextureName: "named/yamazakura/yamazakura_kamuy_tuki",
+			ModelName: "named/yamazakura/model",
+			SB.SEffect: {},
+			SlashBlade: {}
+		},
+		ForgeCaps: {
+			Parent: {}
+		}
+	},
+	always_invisible: false,
+	group: 1320426274,
+	default_quest_shape: ""
+}

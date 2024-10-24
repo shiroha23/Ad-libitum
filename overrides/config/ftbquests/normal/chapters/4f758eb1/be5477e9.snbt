@@ -1,11 +1,11 @@
 {
-	x: -2.0d,
-	y: 24.0d,
+	x: 0.0d,
+	y: 0.0d,
 	tasks: [{
-		uid: "8ffafb5c",
+		uid: "30dba57f",
 		type: "item",
 		items: [{
-			item: "ic2:treetap"
+			item: "astralsorcery:itemjournal"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -17,46 +17,5 @@
 		items: [{
 			item: "mekanism:energyupgrade"
 		}]
-	},
-	{
-		uid: "b919251e",
-		type: "item",
-		items: [{
-			item: "mekanism:filterupgrade"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
-	},
-	{
-		uid: "26171d9e",
-		type: "item",
-		items: [{
-			item: "mekanism:mufflingupgrade"
-		}]
-	},
-	{
-		uid: "375b4290",
-		type: "item",
-		items: [{
-			item: "mekanism:gasupgrade"
-		}]
-	},
-	{
-		uid: "319ba19f",
-		type: "item",
-		items: [{
-			item: "mekanism:anchorupgrade"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
-	},
-	{
-		uid: "6a733c69",
-		type: "item",
-		items: [{
-			item: "mekanism:stonegeneratorupgrade"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
 	}]
 }

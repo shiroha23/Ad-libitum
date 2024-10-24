@@ -10,19 +10,5 @@
 		items: [{
 			item: "mekanism:enrichedalloy"
 		}]
-	},
-	{
-		uid: "dd7d0c5e",
-		type: "item",
-		items: [{
-			item: "mekanism:reinforcedalloy"
-		}]
-	},
-	{
-		uid: "f22fedac",
-		type: "item",
-		items: [{
-			item: "mekanism:atomicalloy"
-		}]
 	}]
 }

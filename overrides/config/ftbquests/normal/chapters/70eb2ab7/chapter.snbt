@@ -1,0 +1,7 @@
+{
+	title: "巫术学",
+	icon: "ebwizardry:master_wand",
+	always_invisible: false,
+	group: 1320426274,
+	default_quest_shape: ""
+}

@@ -1,6 +1,6 @@
 {
-	title: "基本",
-	icon: "thermalfoundation:material 1 24",
+	title: "能源",
+	icon: "mekanismgenerators:generator 1 3",
 	always_invisible: false,
 	group: 1826651652,
 	default_quest_shape: ""

@@ -1,0 +1,7 @@
+{
+	title: "植物魔法",
+	icon: "botania:brewery",
+	always_invisible: false,
+	group: -1113199725,
+	default_quest_shape: ""
+}

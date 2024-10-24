@@ -1,0 +1,28 @@
+{
+	x: 4.0d,
+	y: 8.0d,
+	dependencies: [
+		"2ab4acc8"
+	],
+	tasks: [{
+		uid: "4020904c",
+		type: "item",
+		items: [{
+			item: "mekanism:enrichediron"
+		}]
+	},
+	{
+		uid: "b57429f5",
+		type: "item",
+		items: [{
+			item: "mekanism:otherdust 1 1"
+		}]
+	},
+	{
+		uid: "df5fd94e",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 160"
+		}]
+	}]
+}

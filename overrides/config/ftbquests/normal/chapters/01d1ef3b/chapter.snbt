@@ -1,6 +1,6 @@
 {
-	title: "基本",
-	icon: "thermalfoundation:material 1 24",
+	title: "星系",
+	icon: "galacticraftplanets:rocket_t3 1 4",
 	always_invisible: false,
 	group: 1826651652,
 	default_quest_shape: ""

@@ -1,6 +1,6 @@
 {
-	title: "基本",
-	icon: "thermalfoundation:material 1 24",
+	title: "通量网络",
+	icon: "fluxnetworks:fluxcore",
 	always_invisible: false,
 	group: 1826651652,
 	default_quest_shape: ""
