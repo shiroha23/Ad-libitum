@@ -1,7 +1,7 @@
 {
 	title: "神秘时代",
 	icon: "thaumcraft:infusion_matrix",
-	always_invisible: false,
+	always_invisible: 0b,
 	group: -1113199725,
 	default_quest_shape: ""
 }

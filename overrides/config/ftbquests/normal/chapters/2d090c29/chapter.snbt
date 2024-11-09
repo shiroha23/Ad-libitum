@@ -1,0 +1,7 @@
+{
+	title: "末影接口",
+	icon: "enderio:item_material 1 20",
+	always_invisible: 0b,
+	group: 1337660297,
+	default_quest_shape: ""
+}
