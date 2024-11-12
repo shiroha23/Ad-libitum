@@ -1,0 +1,14 @@
+{
+	x: 12.0d,
+	y: 0.0d,
+	dependencies: [
+		"adb8ff5c"
+	],
+	tasks: [{
+		uid: "ddcd1dae",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 1"
+		}]
+	}]
+}

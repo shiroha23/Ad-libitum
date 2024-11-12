@@ -1,0 +1,69 @@
+{
+	title: "容器",
+	x: -2.0d,
+	y: 4.0d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"ec3200a1"
+	],
+	tasks: [{
+		uid: "dc669b46",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:strongbox",
+			tag: {
+				Facing: 3b,
+				Level: 0b
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6135f55c",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:tank",
+			tag: {
+				RSControl: 0b,
+				Level: 0b
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "482015df",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:cache",
+			tag: {
+				Facing: 3b,
+				Level: 0b
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3b6481d2",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:cell",
+			tag: {
+				Facing: 3b,
+				SideCache: [B;
+					2b,
+					1b,
+					1b,
+					1b,
+					1b,
+					1b
+				],
+				RSControl: 0b,
+				Energy: 0,
+				Level: 0b,
+				Send: 1000,
+				Recv: 1000
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: 8.0d,
+	y: 2.0d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"6939e21e"
+	],
+	tasks: [{
+		uid: "7b712be8",
+		type: "item",
+		title: "工厂安装器",
+		items: [{
+			item: "mekanism:tierinstaller"
+		},
+		{
+			item: "mekanism:tierinstaller 1 1"
+		},
+		{
+			item: "mekanism:tierinstaller 1 2"
+		},
+		{
+			item: "mekanism:tierinstaller 1 3"
+		}]
+	}]
+}

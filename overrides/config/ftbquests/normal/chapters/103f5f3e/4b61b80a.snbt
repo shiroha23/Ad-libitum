@@ -1,0 +1,22 @@
+{
+	title: "高级合金",
+	x: 4.0d,
+	y: 2.0d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"fc1d3b8d"
+	],
+	tasks: [{
+		uid: "bd7844e5",
+		type: "item",
+		items: [{
+			item: "mekanism:enrichedalloy"
+		},
+		{
+			item: "mekanism:reinforcedalloy"
+		},
+		{
+			item: "mekanism:atomicalloy"
+		}]
+	}]
+}

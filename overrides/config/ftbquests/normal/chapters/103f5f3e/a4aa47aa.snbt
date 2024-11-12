@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 2.0d,
+	dependencies: [
+		"dbfd9dfb"
+	],
+	tasks: [{
+		uid: "13f66ed8",
+		type: "item",
+		items: [{
+			item: "mekanism:robit"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

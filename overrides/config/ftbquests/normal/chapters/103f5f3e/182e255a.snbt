@@ -1,0 +1,37 @@
+{
+	x: 10.0d,
+	y: 2.0d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"4b61b80a"
+	],
+	tasks: [{
+		uid: "25e16866",
+		type: "item",
+		title: "模块升级",
+		items: [{
+			item: "mekanism:speedupgrade"
+		},
+		{
+			item: "mekanism:energyupgrade"
+		},
+		{
+			item: "mekanism:filterupgrade"
+		},
+		{
+			item: "mekanism:mufflingupgrade"
+		},
+		{
+			item: "mekanism:gasupgrade"
+		},
+		{
+			item: "mekanism:anchorupgrade"
+		},
+		{
+			item: "mekanism:stonegeneratorupgrade"
+		},
+		{
+			item: "mekanism:threadupgrade"
+		}]
+	}]
+}

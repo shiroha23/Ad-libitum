@@ -6,22 +6,21 @@
 		type: "item",
 		items: [{
 			item: "actuallyadditions:stone_paxel"
-		}],
-		ignore_damage: 1b,
-		ignore_nbt: 1b
-	},
-	{
-		uid: "18c63161",
-		type: "item",
-		items: [{
+		},
+		{
 			item: "actuallyadditions:iron_paxel"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "70516db5",
-		type: "loot",
-		table: 0
+		uid: "3f575e85",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "_"
+			}
+		}
 	}]
 }

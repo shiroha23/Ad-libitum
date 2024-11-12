@@ -1,0 +1,36 @@
+{
+	title: "存储",
+	x: 0.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "ca891f04",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			Damage: 11s,
+			tag: {
+				tier: 0
+			}
+		}]
+	},
+	{
+		uid: "8ea6addf",
+		type: "item",
+		items: [{
+			id: "mekanism:energycube",
+			tag: {
+				tier: 0
+			}
+		}]
+	},
+	{
+		uid: "ebbb79e7",
+		type: "item",
+		items: [{
+			id: "mekanism:gastank",
+			tag: {
+				tier: 0
+			}
+		}]
+	}]
+}

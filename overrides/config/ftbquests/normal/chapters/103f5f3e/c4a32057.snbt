@@ -1,0 +1,59 @@
+{
+	title: "传输",
+	x: -2.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "4484f386",
+		type: "item",
+		items: [{
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 0
+			}
+		}]
+	},
+	{
+		uid: "24fe28ea",
+		type: "item",
+		items: [{
+			id: "mekanism:transmitter",
+			Damage: 1s,
+			tag: {
+				tier: 0
+			}
+		}]
+	},
+	{
+		uid: "16f46e64",
+		type: "item",
+		items: [{
+			id: "mekanism:transmitter",
+			Damage: 2s,
+			tag: {
+				tier: 0
+			}
+		}]
+	},
+	{
+		uid: "71f9cc79",
+		type: "item",
+		items: [{
+			id: "mekanism:transmitter",
+			Damage: 3s,
+			tag: {
+				tier: 0
+			}
+		}]
+	},
+	{
+		uid: "f1debcff",
+		type: "item",
+		items: [{
+			id: "mekanism:transmitter",
+			Damage: 6s,
+			tag: {
+				tier: 0
+			}
+		}]
+	}]
+}

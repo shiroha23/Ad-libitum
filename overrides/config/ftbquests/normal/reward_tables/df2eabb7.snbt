@@ -36,5 +36,14 @@
 	{
 		item: "ic2:ingot 1 8",
 		count: 32
-	}]
+	}],
+	loot_crate: {
+		string_id: "_",
+		color: 16777215,
+		drops: {
+			passive: 0,
+			monster: 0,
+			boss: 0
+		}
+	}
 }

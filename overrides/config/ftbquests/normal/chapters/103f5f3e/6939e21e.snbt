@@ -1,0 +1,25 @@
+{
+	x: 6.0d,
+	y: 2.0d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"fc1d3b8d"
+	],
+	tasks: [{
+		uid: "8cdaa848",
+		type: "item",
+		title: "控制电路",
+		items: [{
+			item: "mekanism:controlcircuit"
+		},
+		{
+			item: "mekanism:controlcircuit 1 1"
+		},
+		{
+			item: "mekanism:controlcircuit 1 2"
+		},
+		{
+			item: "mekanism:controlcircuit 1 3"
+		}]
+	}]
+}

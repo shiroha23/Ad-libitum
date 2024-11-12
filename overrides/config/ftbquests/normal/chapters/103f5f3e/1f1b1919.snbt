@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"fc1d3b8d"
+	],
+	tasks: [{
+		uid: "9151a3ed",
+		type: "item",
+		items: [{
+			item: "mekanism:enrichediron"
+		}]
+	},
+	{
+		uid: "365cfb03",
+		type: "item",
+		items: [{
+			item: "mekanism:otherdust 1 1"
+		}]
+	}]
+}

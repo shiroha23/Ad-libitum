@@ -1,0 +1,60 @@
+{
+	title: "工具",
+	x: -4.0d,
+	y: 4.0d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"ec3200a1"
+	],
+	tasks: [{
+		uid: "cdc7a528",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:satchel",
+			tag: {
+				Accessible: 1b
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a2b3e06c",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:reservoir",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a4dc5155",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:florb"
+		},
+		{
+			item: "thermalexpansion:florb 1 1"
+		}]
+	},
+	{
+		uid: "d08da533",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:morb"
+		},
+		{
+			item: "thermalexpansion:morb 1 1"
+		}]
+	},
+	{
+		uid: "8deb81f2",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:capacitor",
+			tag: {
+				Energy: 1000000
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

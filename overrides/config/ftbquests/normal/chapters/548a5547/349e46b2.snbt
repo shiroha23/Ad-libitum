@@ -1,0 +1,49 @@
+{
+	title: "管道",
+	x: -6.0d,
+	y: 4.0d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"ec3200a1"
+	],
+	tasks: [{
+		uid: "d8b9f0d7",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0"
+		}]
+	},
+	{
+		uid: "7ee2c943",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_32 1 1"
+		}]
+	},
+	{
+		uid: "a34f0416",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_16 1 1"
+		},
+		{
+			item: "thermaldynamics:duct_16"
+		}]
+	},
+	{
+		uid: "4054e9d0",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:servo"
+		},
+		{
+			item: "thermaldynamics:filter"
+		},
+		{
+			item: "thermaldynamics:retriever"
+		},
+		{
+			item: "thermaldynamics:relay"
+		}]
+	}]
+}

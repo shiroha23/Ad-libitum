@@ -1,0 +1,25 @@
+{
+	x: 2.0d,
+	y: 2.0d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"ee3d52cc"
+	],
+	tasks: [{
+		uid: "951c28e8",
+		type: "item",
+		title: "压缩材料",
+		items: [{
+			item: "mekanism:compressedcarbon"
+		},
+		{
+			item: "mekanism:compressedredstone"
+		},
+		{
+			item: "mekanism:compresseddiamond"
+		},
+		{
+			item: "mekanism:compressedobsidian"
+		}]
+	}]
+}

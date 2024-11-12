@@ -1,0 +1,34 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"5e16aa50"
+	],
+	tasks: [{
+		uid: "346c27b4",
+		type: "item",
+		title: "升级套件",
+		items: [{
+			item: "thermalfoundation:upgrade"
+		},
+		{
+			item: "thermalfoundation:upgrade 1 1"
+		},
+		{
+			item: "thermalfoundation:upgrade 1 33"
+		},
+		{
+			item: "thermalfoundation:upgrade 1 2"
+		},
+		{
+			item: "thermalfoundation:upgrade 1 34"
+		},
+		{
+			item: "thermalfoundation:upgrade 1 3"
+		},
+		{
+			item: "thermalfoundation:upgrade 1 35"
+		}]
+	}]
+}

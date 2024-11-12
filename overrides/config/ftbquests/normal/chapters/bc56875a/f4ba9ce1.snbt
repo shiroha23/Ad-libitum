@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"3b0e638c",
+		"ee4f1331"
+	],
+	tasks: [{
+		uid: "49f7686d",
+		type: "item",
+		items: [{
+			id: "ic2:re_battery",
+			tag: {}
+		}]
+	}]
+}

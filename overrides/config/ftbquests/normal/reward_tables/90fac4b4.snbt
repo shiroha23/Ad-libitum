@@ -32,5 +32,14 @@
 	{
 		item: "minecraft:emerald",
 		count: 4
-	}]
+	}],
+	loot_crate: {
+		string_id: "_",
+		color: 16777215,
+		drops: {
+			passive: 0,
+			monster: 0,
+			boss: 0
+		}
+	}
 }

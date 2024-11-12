@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: 0.0d,
+	dependencies: [
+		"7806ffa6"
+	],
+	tasks: [{
+		uid: "664cbc16",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 10"
+		}]
+	}]
+}
